@@ -1,4 +1,4 @@
-﻿{
+{
     "teams":  [
                   {
                       "name":  "Mexico",
@@ -1973,7 +1973,7 @@
                         {
                             "id":  2,
                             "name":  "Cristiano Ronaldo",
-                            "country":  "Portugal",
+                            "country":  "Bồ Đào Nha",
                             "image":  "Stars/975480696.avif",
                             "full_name":  "Cristiano Ronaldo dos Santos Aveiro",
                             "nickname":  "CR7",
@@ -1996,7 +1996,7 @@
                         {
                             "id":  3,
                             "name":  "Kylian Mbappé",
-                            "country":  "France",
+                            "country":  "Pháp",
                             "image":  "Stars/Kylian-Mbappe-kisses-the-FIFA-World-Cup-trophy-after-France-beat-Croatia-in-the-Russia-2018-final.avif",
                             "full_name":  "Kylian Mbappé Lottin",
                             "nickname":  "Cậu bé vàng nước Pháp / 37",
@@ -2065,7 +2065,7 @@
                         {
                             "id":  6,
                             "name":  "Mohamed Salah",
-                            "country":  "Egypt",
+                            "country":  "Ai Cập",
                             "image":  "Stars/Egypt-s-forward-10-Mohamed-Salah-removes-the-captain-s-armband-during-the-Africa-Cup-of-Nations-CAN-third-place-football-match-between-Egypt-and-Nigeria-at-the-Mohammed-V-Stadium-in-Casablanca-on-January-17-2026.avif",
                             "full_name":  "Mohamed Salah Hamed Mahrous Ghaly",
                             "nickname":  "Vua Ai Cập (The Egyptian King)",
@@ -2088,7 +2088,7 @@
                         {
                             "id":  7,
                             "name":  "Lamine Yamal",
-                            "country":  "Spain",
+                            "country":  "Tây Ban Nha",
                             "image":  "Stars/GettyImages-2218119058.avif",
                             "full_name":  "Lamine Yamal Nasraoui Ebana",
                             "nickname":  "Thần đồng La Masia",
@@ -2111,7 +2111,7 @@
                         {
                             "id":  8,
                             "name":  "Son Heung-min",
-                            "country":  "South Korea",
+                            "country":  "Hàn Quốc",
                             "image":  "Stars/Son-Heungmin-in-action-against-Cote-d-Ivoire.avif",
                             "full_name":  "Son Heung-min",
                             "nickname":  "Sonaldo / Niềm tự hào châu Á",
@@ -2134,7 +2134,7 @@
                         {
                             "id":  9,
                             "name":  "Erling Haaland",
-                            "country":  "Norway",
+                            "country":  "Na Uy",
                             "image":  "Stars/Erling-Haaland-celebrates-following-Norway-s-4-1-win-over-Estonia-in-Oslo-in-European-qualifying-for-the-FIFA-World-Cup-2026.avif",
                             "full_name":  "Erling Braut Haaland",
                             "nickname":  "Kẻ hủy diệt / Máy quét bàn thắng",
@@ -2157,7 +2157,7 @@
                         {
                             "id":  10,
                             "name":  "Harry Kane",
-                            "country":  "England",
+                            "country":  "Anh",
                             "image":  "Stars/GettyImages-2161532093.avif",
                             "full_name":  "Harry Edward Kane",
                             "nickname":  "HurriKane",
