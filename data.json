@@ -1,0 +1,2181 @@
+﻿{
+    "teams":  [
+                  {
+                      "name":  "Mexico",
+                      "code":  "mx",
+                      "group":  "Bảng A",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Raul Rangel",
+                                                        "Guillermo Ochoa",
+                                                        "Carlos Acevedo"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Erik Lira",
+                                                        "Orbelin Pineda",
+                                                        "Alvaro Fidalgo",
+                                                        "Brian Gutierrez",
+                                                        "Luis Romo",
+                                                        "Edson Alvarez",
+                                                        "Obed Vargas",
+                                                        "Gilberto Mora",
+                                                        "Luis Chavez."
+                                                    ],
+                                    "defenders":  [
+                                                      "Jorge Sanchez",
+                                                      "Israel Reyes",
+                                                      "Cesar Montes",
+                                                      "Johan Vasquez",
+                                                      "Jesus Gallardo",
+                                                      "Mateo Chavez"
+                                                  ],
+                                    "forwards":  [
+                                                     "Roberto Alvarado",
+                                                     "Cesar Huerta",
+                                                     "Alexis Vega",
+                                                     "Julian Quinones",
+                                                     "Guillermo Martinez",
+                                                     "Armando Gonzalez",
+                                                     "Santiago Gimenez",
+                                                     "Raul Jimenez"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Nam Phi",
+                      "code":  "za",
+                      "group":  "Bảng A",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Ronwen Williams (Mamelodi Sundowns)",
+                                                        "Ricardo Goss (Siwelele)",
+                                                        "Sipho Chaine (Orlando Pirates)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Teboho Mokoena",
+                                                        "Jayden Adams (both Mamelodi Sundowns)",
+                                                        "Thalente Mbatha (Orlando Pirates)",
+                                                        "Sphephelo Sithole (Tondela, Portugal)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Khuliso Mudau",
+                                                      "Aubrey Modiba",
+                                                      "Khulumani Ndamane (all Mamelodi Sundowns)",
+                                                      "Olwethu Makhanya (Philadelphia Union, USA)",
+                                                      "Bradley Cross (Kaizer Chiefs)",
+                                                      "Thabang Matuludi (Polokwane City)",
+                                                      "Nkosinathi Sibisi",
+                                                      "Kamogelo Sebelebele (both Orlando Pirates)",
+                                                      "Ime Okon (Hannover 96, Germany)",
+                                                      "Samukele Kabini (Molde FK, Norway)",
+                                                      "Mbekezeli Mbokazi (Chicago Fire, USA)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Oswin Appollis",
+                                                     "Tshepang Moremi",
+                                                     "Evidence Makgopa",
+                                                     "Relebohile Mofokeng (all Orlando Pirates)",
+                                                     "Lyle Foster (Burnley, England)",
+                                                     "Iqraam Rayners",
+                                                     "Themba Zwane (both Mamelodi Sundowns)",
+                                                     "Thapelo Maseko (AEL Limassol, Cyprus)"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Hàn Quốc",
+                      "code":  "kr",
+                      "group":  "Bảng A",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Kim Seung-gyu",
+                                                        "Song Bum-keun",
+                                                        "Jo Hyeon-woo."
+                                                    ],
+                                    "midfielders":  [
+                                                        "Kim Jin-gyu",
+                                                        "Bae Jun-ho",
+                                                        "Paik Seung-ho",
+                                                        "Yang Hyun-jun",
+                                                        "Eom Ji-sung",
+                                                        "Lee Kang-in",
+                                                        "Lee Dong-gyeong",
+                                                        "Lee Jae-sung",
+                                                        "Hwang In-beom",
+                                                        "Hwang Hee-chan."
+                                                    ],
+                                    "defenders":  [
+                                                      "Kim Moon-hwan",
+                                                      "Kim Min-jae",
+                                                      "Kim Tae-hyeon",
+                                                      "Park Jin-seop",
+                                                      "Seol Young-woo",
+                                                      "Jens Castrop",
+                                                      "Lee Ki-hyeok",
+                                                      "Lee Tae-seok",
+                                                      "Lee Han-beom",
+                                                      "Cho Yu-min."
+                                                  ],
+                                    "forwards":  [
+                                                     "Son Heung-min",
+                                                     "Oh Hyeon-gyu",
+                                                     "Cho Gue-sung."
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Cộng hòa Séc",
+                      "code":  "cz",
+                      "group":  "Bảng A",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Lukas Hornicek (Braga)",
+                                                        "Matej Kovar (PSV Eindhoven)",
+                                                        "Jindrich Stanek (Slavia Prague)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Lukas Cerv (Viktoria Plzen)",
+                                                        "Vladimir Darida (Hradec Kralove)",
+                                                        "Lukas Provod (Slavia Prague)",
+                                                        "Michal Sadilek (Slavia Prague)",
+                                                        "Hugo Sochurek (Sparta Prague)",
+                                                        "Alexandr Sojka (Viktoria Plzen)",
+                                                        "Tomas Soucek (West Ham)",
+                                                        "Pavel Sulc (Olympique Lyonnais)",
+                                                        "Denis Visinsky (Viktoria Plzen)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Vladimir Coufal (Hoffenheim)",
+                                                      "David Doudera (Slavia Prague)",
+                                                      "Tomas Holes (Slavia Prague)",
+                                                      "Robin Hranac (Hoffenheim)",
+                                                      "Stepan Chaloupek (Slavia Prague)",
+                                                      "David Jurasek (Slavia Prague)",
+                                                      "Ladislav Krejci (Wolverhampton)",
+                                                      "​Jaroslav Zeleny (Sparta Prague)",
+                                                      "David Zima (Slavia Prague)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Adam Hlozek (Hoffenheim)",
+                                                     "Tomas Chory (Slavia Prague)",
+                                                     "Mojmir Chytil (Slavia Prague)",
+                                                     "Jan Kuchta (Sparta Prague)",
+                                                     "Patrik Schick (Bayer Leverkusen)"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Canada",
+                      "code":  "ca",
+                      "group":  "Bảng B",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Maxime Crepeau (Orlando City)",
+                                                        "Owen Goodman (Crystal Palace)",
+                                                        "Dayne St Clair (Inter Miami)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Ali Ahmed (Norwich City)",
+                                                        "Tajon Buchanan (Villarreal )",
+                                                        "Mathieu Choiniere (LAFC)",
+                                                        "Stephen Eustaquio (Porto)",
+                                                        "Marcelo Flores (Tigres UANL)",
+                                                        "Ismael Kone (U.S. Sassuolo Calcio)",
+                                                        "Liam Millar (Hull City)",
+                                                        "Jonathan Osorio (Toronto FC)",
+                                                        "Nathan Saliba (Anderlecht)",
+                                                        "Jacob Shaffelburg (LAFC)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Moise Bombito (OGC Nice)",
+                                                      "Derek Cornelius (Olympique de Marseille)",
+                                                      "Alphonso Davies (Bayern Munich)",
+                                                      "Luc de Fougerolles (Fulham)",
+                                                      "Alistair Johnston (Celtic)",
+                                                      "Alfie Jones (Middlesbrough)",
+                                                      "Richie Laryea (Toronto FC)",
+                                                      "Niko Sigur (Hajduk Split)",
+                                                      "Joel Waterman (Chicago Fire)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Jonathan David (Juventus)",
+                                                     "Promise David (Union Saint-Gilloise)",
+                                                     "Cyle Larin (Mallorca)",
+                                                     "Tani Oluwaseyi (Villarreal)"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Bosnia và Herzegovina",
+                      "code":  "ba",
+                      "group":  "Bảng B",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Nikola Vasilj (St Pauli)",
+                                                        "Martin Zlomislic (Rijeka)",
+                                                        "Osman Hadzikic (Slaven Belupo)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Amir Hadziahmetovic (Hull City)",
+                                                        "Ivan Sunjic (Pafos)",
+                                                        "Ivan Basic (Astana)",
+                                                        "Dzenis Burnic (Karlsruher SC)",
+                                                        "Ermin Mahmic (Slovan Liberec)",
+                                                        "Benjamin Tahirovic (Brondby)",
+                                                        "Amar Memic (Viktoria Plzen)",
+                                                        "Armin Gigovic (Young Boys)",
+                                                        "Kerim Alajbegovic (RB Salzburg)",
+                                                        "Esmir Bajraktarevic (PSV Eindhoven)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Sead Kolasinac (Atalanta)",
+                                                      "Amar Dedic (Benfica)",
+                                                      "Nihad Mujakic (Gaziantep)",
+                                                      "Nikola Katic (Schalke 04)",
+                                                      "Tarik Muharemovic (Sassuolo)",
+                                                      "Stjepan Radeljic (Rijeka)",
+                                                      "Dennis Hadzikadunic (Sampdoria)",
+                                                      "Nidal Celik (Lens)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Ermedin Demirovic (VfB Stuttgart)",
+                                                     "Jovo Lukic (Universitatea Cluj)",
+                                                     "Samed Bazdar (Jagiellonia Bialystok)",
+                                                     "Haris Tabakovic (Borussia Moenchengladbach)",
+                                                     "Edin Dzeko (Schalke 04)"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Qatar",
+                      "code":  "qa",
+                      "group":  "Bảng B",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Salah Zakaria",
+                                                        "Mahmoud Abunada",
+                                                        "Meshaal Barsham"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Mohammed Al-Manai",
+                                                        "Jassem Jaber",
+                                                        "Karim Boudiaf",
+                                                        "Ahmed Fathi",
+                                                        "Abdulaziz Hatem",
+                                                        "Assim Madibo"
+                                                    ],
+                                    "defenders":  [
+                                                      "Hashmi Hussein",
+                                                      "Ayoub Alawi",
+                                                      "Boualem Khoukhi",
+                                                      "Pedro Miguel",
+                                                      "Issa Laaye",
+                                                      "Lucas Mendes",
+                                                      "Sultan Al-Brake",
+                                                      "Homam Al-Amin"
+                                                  ],
+                                    "forwards":  [
+                                                     "Tahseen Mohammed",
+                                                     "Edmilson Junior",
+                                                     "Almoez Ali",
+                                                     "Akram Afif",
+                                                     "Mohammed Muntari",
+                                                     "Youssef Abdulrazzaq",
+                                                     "Ahmed Alaa",
+                                                     "Hassan Al-Haydos",
+                                                     "Ahmed Al-Janahi"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Thụy Sĩ",
+                      "code":  "ch",
+                      "group":  "Bảng B",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Marvin Keller (Young Boys Bern)",
+                                                        "Gregor Kobel (Borussia Dortmund)",
+                                                        "Yvon Mvogo (Lorient)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Michel Aebischer (Pisa)",
+                                                        "Christian Fassnacht (Young Boys Bern)",
+                                                        "Remo Freuler (Bologna)",
+                                                        "Ardon Jashari (AC Milan)",
+                                                        "Johan Manzambi (Freiburg)",
+                                                        "Fabian Rieder (Augsburg)",
+                                                        "Djibril Sow",
+                                                        "Ruben Vargas (both Sevilla)",
+                                                        "Granit Xhaka (Sunderland)",
+                                                        "Denis Zakaria (Monaco)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Manuel Akanji (Inter Milan)",
+                                                      "Aurele Amenda (Eintracht Frankfurt)",
+                                                      "Eray Comert (Valencia)",
+                                                      "Nico Elvedi (Borussia Moenchengladbach)",
+                                                      "Luca Jaquez (VfB Stuttgart)",
+                                                      "Miro Muheim (Hamburg)",
+                                                      "Ricardo Rodriguez (Real Betis)",
+                                                      "Silvan Widmer (Mainz)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Zeki Amdouni (Burnley)",
+                                                     "Breel Embolo (Stade Rennais)",
+                                                     "Cedric Itten (Fortuna Düsseldorf)",
+                                                     "Dan Ndoye (Nottingham Forest)",
+                                                     "Noah Okafor (Leeds United)."
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Brazil",
+                      "code":  "br",
+                      "group":  "Bảng C",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Alisson (Liverpool)",
+                                                        "Ederson (Fenerbahçe)",
+                                                        "Weverton (Gremio)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Bruno Guimaraes (Newcastle)",
+                                                        "Casemiro (Manchester United)",
+                                                        "Danilo Santos (Botafogo)",
+                                                        "Fabinho (Al Ittihad)",
+                                                        "Lucas Paqueta (Flamengo)",
+                                                        "Ederson (Atalanta)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Alex Sandro (Flamengo)",
+                                                      "Bremer (Juventus)",
+                                                      "Danilo (Flamengo)",
+                                                      "Douglas Santos (Zenit)",
+                                                      "Gabriel Magalhaes (Arsenal)",
+                                                      "Ibanez (Al Ahli)",
+                                                      "Leo Pereira (Flamengo)",
+                                                      "Marquinhos (PSG)."
+                                                  ],
+                                    "forwards":  [
+                                                     "Endrick (Lyon)",
+                                                     "Gabriel Martinelli (Arsenal)",
+                                                     "Igor Thiago (Brentford)",
+                                                     "Luiz Henrique (Zenit)",
+                                                     "Matheus Cunha (Manchester United)",
+                                                     "Neymar (Santos)",
+                                                     "Raphinha (Barcelona)",
+                                                     "Rayan (Bournemouth)",
+                                                     "Vinicius Jr (Real Madrid)"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Maroc",
+                      "code":  "ma",
+                      "group":  "Bảng C",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Yassine Bounou (Al Hilal)",
+                                                        "Munir Mohamedi (RS Berkane)",
+                                                        "Ahmed Tagnaouti (Royal Armed Forces)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Samir El Mourabet (Strasbourg)",
+                                                        "Ayyoub Bouaddi (Lille)",
+                                                        "Neil El Aynaoui (Roma)",
+                                                        "Sofyan Amrabat (Real Betis)",
+                                                        "Azzedine Ounahi (Girona)",
+                                                        "Bilal El Khannouss (Stuttgart)",
+                                                        "Ismael Saibari (PSV Eindhoven)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Noussair Mazraoui (Manchester United)",
+                                                      "Anass Salah-Eddine (PSV Eindhoven)",
+                                                      "Youssef Belammari (Al Ahly)",
+                                                      "Nayef Aguerd (Marseille)",
+                                                      "Chadi Riad (Crystal Palace)",
+                                                      "Issa Diop (West Ham United)",
+                                                      "Redouane Halhal (KV Mechelen)",
+                                                      "Achraf Hakimi (Paris St-Germain)",
+                                                      "Zakaria El Ouahdi (Genk)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Abdessamad Ezzalzouli (Real Betis)",
+                                                     "Chemsdine Talbi (Sunderland)",
+                                                     "Soufiane Rahimi (Al Ain)",
+                                                     "Ayoub El Kaabi (Olympiacos)",
+                                                     "Brahim Diaz (Real Madrid)",
+                                                     "Yassine Gessime (Strasbourg)",
+                                                     "Ayoub Amaimouni-Echghouyabe (Eintracht Frankfurt)"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Haiti",
+                      "code":  "ht",
+                      "group":  "Bảng C",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Johny Placide",
+                                                        "Alexandre Pierre",
+                                                        "Josue Duverger"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Leverton Pierre",
+                                                        "Carl-Fred Sainte",
+                                                        "Danley Jean-Jacques",
+                                                        "Jean-Ricner Bellegarde",
+                                                        "Woodensky Pierre",
+                                                        "Simon Dominique"
+                                                    ],
+                                    "defenders":  [
+                                                      "Carlens Arcus",
+                                                      "Wilguens Paugain",
+                                                      "Duke Lacroix",
+                                                      "Martin Experience",
+                                                      "JK Duverne",
+                                                      "Ricardo Ade",
+                                                      "Hannes Delcroix",
+                                                      "Keeto Thermoncy"
+                                                  ],
+                                    "forwards":  [
+                                                     "Louicius Deedson",
+                                                     "Ruben Providence",
+                                                     "Josue Casimir",
+                                                     "Derrick Etienne",
+                                                     "Wilson Isidor",
+                                                     "Duckens Nazon",
+                                                     "Frantzdy Pierrot",
+                                                     "Yassin Fortune",
+                                                     "Lenny Joseph"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Scotland",
+                      "code":  "gb-sct",
+                      "group":  "Bảng C",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Craig Gordon (Hearts)",
+                                                        "Angus Gunn (Nottingham Forest)",
+                                                        "Liam Kelly (Rangers)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Ryan Christie (Bournemouth)",
+                                                        "Finlay Curtis (Kilmarnock)",
+                                                        "Lewis Ferguson (Bologna)",
+                                                        "Ben Gannon-Doak (Bournemouth)",
+                                                        "Tyler Fletcher (Manchester United)",
+                                                        "John McGinn (Aston Villa)",
+                                                        "Kenny McLean (Norwich)",
+                                                        "Scott McTominay (Napoli)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Grant Hanley (Hibernian)",
+                                                      "Jack Hendry (Al Etiffaq)",
+                                                      "Aaron Hickey (Brentford)",
+                                                      "Dom Hyam (Wrexham)",
+                                                      "Scott McKenna (Dinamo Zagreb)",
+                                                      "Nathan Patterson (Everton)",
+                                                      "Anthony Ralston (Celtic)",
+                                                      "Andy Robertson (Liverpool)",
+                                                      "John Souttar (Rangers)",
+                                                      "Kieran Tierney (Celtic)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Che Adams (Torino)",
+                                                     "Lyndon Dykes (Charlton Athletic)",
+                                                     "George Hirst (Ipswich)",
+                                                     "Lawrence Shankland (Hearts)",
+                                                     "Ross Stewart (Southampton)"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Mỹ",
+                      "code":  "us",
+                      "group":  "Bảng D",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Chris Brady (Chicago Fire)",
+                                                        "Matt Freese (New York City FC)",
+                                                        "Matt Turner (New England Revolution)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Tyler Adams (AFC Bournemouth)",
+                                                        "Sebastian Berhalter (Vancouver Whitecaps)",
+                                                        "Weston McKennie (Juventus)",
+                                                        "Gio Reyna (Borussia Mönchengladbach)",
+                                                        "Cristian Roldan (Seattle Sounders)",
+                                                        "Malik Tillman (Bayer Leverkusen)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Max Arfsten (Columbus Crew)",
+                                                      "Sergiño Dest (PSV Eindhoven)",
+                                                      "Alex Freeman (Villarreal)",
+                                                      "Mark McKenzie (Toulouse)",
+                                                      "Tim Ream (Charlotte FC)",
+                                                      "Chris Richards (Crystal Palace)",
+                                                      "Antonee Robinson (Fulham)",
+                                                      "Miles Robinson (FC Cincinnati)",
+                                                      "Joe Scally (Borussia Mönchengladbach)",
+                                                      "Auston Trusty (Celtic)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Brenden Aaronson (Leeds United)",
+                                                     "Folarin Balogun (Mónaco)",
+                                                     "Ricardo Pepi (PSV Eindhoven)",
+                                                     "Christian Pulisic (AC Milan)",
+                                                     "Tim Weah (Olympique Marsella)",
+                                                     "Haji Wright (Coventry City)",
+                                                     "Alejandro Zendejas (Club America)"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Paraguay",
+                      "code":  "py",
+                      "group":  "Bảng D",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Orlando Gill (San Lorenzo)",
+                                                        "Roberto Junior Fernandez (Cerro Porteno)",
+                                                        "Gaston Olveira (Olimpia)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Diego Gomez (Brighton)",
+                                                        "Mauricio Magalhaes (Palmeiras)",
+                                                        "Damian Bobadilla (Sao Paulo)",
+                                                        "Braian Ojeda (Vancouver Whitecaps)",
+                                                        "Andres Cubas (Vancouver Whitecaps)",
+                                                        "Matias Galarza (Atlanta United)",
+                                                        "Alejandro Romero Gamarra (Al Ain)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Juan Caceres (Dynamo ⁠Moscow)",
+                                                      "Gustavo Velazquez (Cerro Porteno)",
+                                                      "Gustavo Gomez (Palmeiras)",
+                                                      "Junior Alonso (Atletico Mineiro)",
+                                                      "Jose Canale (Lanus)",
+                                                      "Omar Alderete (Sunderland)",
+                                                      "Alexandro Maidana (Talleres)",
+                                                      "Fabian Balbuena (Gremio)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Gustavo Caballero (Portsmouth)",
+                                                     "Ramon Sosa (Palmeiras)",
+                                                     "Alex Arce (Independiente Rivadavia)",
+                                                     "Gabriel Avalos (Independiente)",
+                                                     "Isidro Pitta (RB Bragantino)",
+                                                     "Miguel Almiron (Atlanta United)",
+                                                     "Julio Enciso (Strasbourg)",
+                                                     "Antonio Sanabria (Cremonese)"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Australia",
+                      "code":  "au",
+                      "group":  "Bảng D",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Mathew Ryan",
+                                                        "Paul Izzo",
+                                                        "Patrick Beach"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Cameron Devlin",
+                                                        "Ajdin Hrustic",
+                                                        "Jackson Irvine",
+                                                        "Connor Metcalfe",
+                                                        "Aiden O’Neill",
+                                                        "Paul Okon-Engstler"
+                                                    ],
+                                    "defenders":  [
+                                                      "Aziz Behich",
+                                                      "Jordan Bos",
+                                                      "Cameron Burgess",
+                                                      "Alessandro Circati",
+                                                      "Milos Degenek",
+                                                      "Jason Geria",
+                                                      "Lucas Herrington",
+                                                      "Jacob Italiano",
+                                                      "Harry Souttar",
+                                                      "Kai Trewin"
+                                                  ],
+                                    "forwards":  [
+                                                     "Nestory Irankunda",
+                                                     "Mathew Leckie",
+                                                     "Awer Mabil",
+                                                     "Mohamed Toure",
+                                                     "Nishan Velupillary",
+                                                     "Cristian Volpato",
+                                                     "Tete Yengi"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Thổ Nhĩ Kỳ",
+                      "code":  "tr",
+                      "group":  "Bảng D",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Altay Bayindir (Manchester United)",
+                                                        "Mert Gunok (Fenerbahce)",
+                                                        "Ugurcan Cakir (Galatasaray)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Hakan Calhanoglu (Inter Milan)",
+                                                        "Ismail Yuksek (Fenerbahce)",
+                                                        "Kaan Ayhan (Galatasaray)",
+                                                        "Orkun Kokcu (Besiktas)",
+                                                        "Salih Ozcan (Borussia Dortmund)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Abdulkerim Bardakci (Galatasaray)",
+                                                      "Caglar Soyuncu (Fenerbahce)",
+                                                      "Eren Elmali (Galatasaray)",
+                                                      "Ferdi Kadioglu (Brighton \u0026 Hove Albion)",
+                                                      "Merih Demiral (Al-Ahli Saudi)",
+                                                      "Mert Muldur (Fenerbahce)",
+                                                      "Ozan Kabak (TSG 1899 Hoffenheim)",
+                                                      "Samet Akaydin (Caykur Rizespor)",
+                                                      "Zeki Celik (AS ​Roma)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Arda Guler (Real Madrid)",
+                                                     "Baris Alper Yilmaz (Galatasaray)",
+                                                     "Can Uzun (Eintracht Frankfurt)",
+                                                     "Deniz Gul (Porto)",
+                                                     "Irfan Can Kahveci (Kasimpasa)",
+                                                     "Kenan Yildiz (Juventus)",
+                                                     "Kerem Akturkoglu (Fenerbahce)",
+                                                     "Oguz Aydin (Fenerbahce)",
+                                                     "Yunus Akgun (Galatasaray)"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Đức",
+                      "code":  "de",
+                      "group":  "Bảng E",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Manuel Neuer (Bayern Munich)",
+                                                        "Oliver Baumann (TSG Hoffenheim)",
+                                                        "Alexander Nubel (VfB Stuttgart);"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Joshua Kimmich (Bayern Munich)",
+                                                        "Leroy Sane (Galatasaray)",
+                                                        "Leon Goretzka (Bayern Munich)",
+                                                        "Jamal Musiala (Bayern Munich)",
+                                                        "Florian Wirtz (Liverpool)",
+                                                        "Pascal Gross (Brighton \u0026 Hove Albion)",
+                                                        "Nadiem Amiri (Mainz 05)",
+                                                        "Aleksandar Pavlovic (Bayern Munich)",
+                                                        "Angelo Stiller (VfB Stuttgart)",
+                                                        "Lennart Karl (Bayern Munich);"
+                                                    ],
+                                    "defenders":  [
+                                                      "Antonio Rudiger (Real Madrid)",
+                                                      "Jonathan Tah (Bayern Munich)",
+                                                      "David Raum (RB Leipzig)",
+                                                      "Nico Schlotterbeck (Borussia Dortmund)",
+                                                      "Waldemar Anton (Borussia Dortmund)",
+                                                      "Malick Thiaw (Newcastle United)",
+                                                      "Nathaniel Brown (Eintracht Frankfurt)",
+                                                      "Felix Nmecha (Borussia Dortmund);"
+                                                  ],
+                                    "forwards":  [
+                                                     "Kai Havertz (Arsenal)",
+                                                     "Jamie Leweling (VfB Stuttgart)",
+                                                     "Nick Woltemade (Newcastle United)",
+                                                     "Deniz Undav (VfB Stuttgart)",
+                                                     "Maximilian Beier (Borussia Dortmund)."
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Curacao",
+                      "code":  "cw",
+                      "group":  "Bảng E",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Tyrick Bodak (Telstar)",
+                                                        "Trevor Doornbusch (VVV Venlo)",
+                                                        "Eloy Room (Miami FC)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "​Juninho Bacuna (FC Volendam)",
+                                                        "Leandro Bacuna (Igdir)",
+                                                        "Livano Comenencia (FC Zurich)",
+                                                        "Kevin Felida (Den Bosch)",
+                                                        "Arjany Martha (Rotherham United)",
+                                                        "Tyrese Noslin (Telstar)",
+                                                        "Godfried Roemeratoe (RKC Waalwijk)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Riechedly Bazoer (Konyaspor)",
+                                                      "Joshua Brenet (Kayserispor)",
+                                                      "Sherel Floranus (PEC Zwolle)",
+                                                      "Deveron Fonville (NEC Nijmegen)",
+                                                      "Juriën Gaari (Abha)",
+                                                      "Armando Obispo (PSV Eindhoven)",
+                                                      "Shurandy Sambo (Sparta Rotterdam)",
+                                                      "Roshon van Eijma (RKC Waalwijk)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Jeremy Antonisse (Kifisia)",
+                                                     "Tahith Chong (Sheffield United)",
+                                                     "Kenji Gorre (Maccabi Haifa)",
+                                                     "Sontje Hansen (Middlesbrough)",
+                                                     "Gervane Kastaneer (Terengganu)",
+                                                     "Brandley Kuwas (FC Volendam)",
+                                                     "Jürgen Locadia (Miami FC)",
+                                                     "Jearl Margaritha (Beveren)."
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Côte d\u0027Ivoire",
+                      "code":  "ci",
+                      "group":  "Bảng E",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Yahia Fofana (Rizespor)",
+                                                        "Mohamed Kone (Charleroi)",
+                                                        "Alban Lafont (Panathinaikos)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Seko Fofana (Stade Rennais)",
+                                                        "Parfait Guiagon (Charleroi)",
+                                                        "Franck Kessie (Al Ahli)",
+                                                        "Christ Oulai (Trabzonspor)",
+                                                        "Ibrahim Sangare (Nottingham Forest)",
+                                                        "Jean-Michael Seri (NK Maribor)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Emmanuel Agbadou (Wolverhampton Wanderers)",
+                                                      "Clement Akpa (AJ Auxerre)",
+                                                      "Ousmane Diomande (Sporting)",
+                                                      "Guela Doue (Racing Strasbourg)",
+                                                      "Ghislain Konan (Gil Vicente)",
+                                                      "Odilon Kossonou (Atalanta)",
+                                                      "Evan Ndicka (AS Roma)",
+                                                      "Wilfried Singo (Galatasaray)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Simon Adingra (AS Monaco)",
+                                                     "Ange-Yoan Bonny (Inter Milan)",
+                                                     "Amad Diallo (Manchester United)",
+                                                     "Oumar Diakite (Cercle Brugge)",
+                                                     "Yan Diomande (RB Leipzig)",
+                                                     "Evann Guessand (Aston Villa)",
+                                                     "Nicolas Pepe (Villarreal)",
+                                                     "Bazoumana Toure (Hoffenheim)",
+                                                     "Elye Wahi (Nice)"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Ecuador",
+                      "code":  "ec",
+                      "group":  "Bảng E",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Hernan Galindez",
+                                                        "Moises Ramirez",
+                                                        "Gonzalo Valle"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Moises Caicedo",
+                                                        "Alan Franco",
+                                                        "Kendry Paez",
+                                                        "Pedro Vite",
+                                                        "Jordy Alcivar",
+                                                        "Denil Castillo",
+                                                        "Yaimar Medina"
+                                                    ],
+                                    "defenders":  [
+                                                      "Piero Hincapie",
+                                                      "Willian Pacho",
+                                                      "Pervis Estupinan",
+                                                      "Felix Torres",
+                                                      "Joel Ordonez",
+                                                      "Jackson Porozo",
+                                                      "Angelo Preciado"
+                                                  ],
+                                    "forwards":  [
+                                                     "Enner Valencia",
+                                                     "Gonzalo Plata",
+                                                     "Alan Minda",
+                                                     "John Yeboah",
+                                                     "Kevin Rodriguez",
+                                                     "Jordy Caicedo",
+                                                     "Nilson Angulo",
+                                                     "Anthony Valencia",
+                                                     "Jeremy Arevalo"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Hà Lan",
+                      "code":  "nl",
+                      "group":  "Bảng F",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Mark Flekken (Bayer Leverkusen)",
+                                                        "Robin Roefs (Sunderland)",
+                                                        "Bart Verbruggen (Brighton \u0026 Hove Albion)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Frenkie de Jong (Barcelona)",
+                                                        "Marten de Roon (Atalanta)",
+                                                        "Ryan Gravenberch (Liverpool)",
+                                                        "Justin Kluivert (Bournemouth)",
+                                                        "Teun Koopmeiners (Juventus)",
+                                                        "Tijjani Reijnders (Manchester City)",
+                                                        "Guus Til (PSV Eindhoven)",
+                                                        "Quinten Timber (Olympique de Marseille)",
+                                                        "Mats Wieffer (Brighton \u0026 Hove Albion)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Nathan Ake (Manchester City)",
+                                                      "Denzel Dumfries (Inter Milan)",
+                                                      "Jorrel Hato (Chelsea)",
+                                                      "Lutsharel Geertruida (Sunderland)",
+                                                      "Micky van de Ven (Tottenham Hotspur)",
+                                                      "Virgil van Dijk (Liverpool)",
+                                                      "Jan Paul van Hecke (Brighton \u0026 Hove Albion)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Brian Brobbey (Sunderland)",
+                                                     "Memphis Depay (Corinthians)",
+                                                     "Cody Gakpo (Liverpool)",
+                                                     "Noa Lang (Galatasaray)",
+                                                     "Donyell Malen (AS Roma)",
+                                                     "Crysencio Summerville (West Ham United)",
+                                                     "Wout Weghorst (Ajax Amsterdam)."
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Nhật Bản",
+                      "code":  "jp",
+                      "group":  "Bảng F",
+                      "squad":  {
+                                    "goalkeepers":  [
+
+                                                    ],
+                                    "midfielders":  [
+
+                                                    ],
+                                    "defenders":  [
+
+                                                  ],
+                                    "forwards":  [
+
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Thụy Điển",
+                      "code":  "se",
+                      "group":  "Bảng F",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Kristoffer Nordfeldt (AIK)",
+                                                        "Viktor Johansson (Stoke City)",
+                                                        "Jacob Widell Zetterström (Derby County)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Taha Ali (Malmo FF)",
+                                                        "Yasin Ayari (Brighton \u0026 Hove Albion)",
+                                                        "Lucas Bergvall (Tottenham Hotspur)",
+                                                        "Anthony Elanga (Newcastle United)",
+                                                        "Viktor Gyokeres (Arsenal)",
+                                                        "Jesper Karlstrom (Udinese)",
+                                                        "Gustaf Nilsson (Club Brugge)",
+                                                        "Benjamin Nygren (Celtic)",
+                                                        "Mattias Svanberg (VfL Wolfsburg)",
+                                                        "Besfort Zeneli (Royale Union Saint-Gilloise)",
+                                                        "Alexander Isak (Liverpool)",
+                                                        "Alexander Bernhardsson (Holstein Kiel)",
+                                                        "Ken Sema (Pafos)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Daniel Svensson (Borussia Dortmund)",
+                                                      "Victor Lindelof (Aston Villa)",
+                                                      "Isak Hien (Atalanta)",
+                                                      "Carl Starfelt (Celta Vigo)",
+                                                      "Elliot Stroud (Mjallby AIF)",
+                                                      "Gustaf Lagerbielke (Braga)",
+                                                      "Gabriel Gudmundsson (Leeds United)",
+                                                      "Herman Johansson (FC Dallas)",
+                                                      "Hjalmar Ekdal (Burnley)",
+                                                      "Erik Smith (St. Pauli)"
+                                                  ],
+                                    "forwards":  [
+
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Tunisia",
+                      "code":  "tn",
+                      "group":  "Bảng F",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Sabri Ben Hessen (Etoile Sahel)",
+                                                        "Abdelmouhib Chamakh (Club Africain)",
+                                                        "Aymen Dahman (CS Sfaxien)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Mortadha Ben Ouanes (Kasimpasa)",
+                                                        "Anis Ben Slimane (Norwich City)",
+                                                        "Ismael Gharbi (FC Augsburg)",
+                                                        "Rani Khedira (Union Berlin)",
+                                                        "Mohamed Hadj Mahmoud (Lugano)",
+                                                        "Hannibal Mejbri (Burnley)",
+                                                        "Ellyes Skhiri (Eintracht Frankfurt)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Ali Abdi (Nice)",
+                                                      "Adem Arous (Kasimpasa)",
+                                                      "Mohamed Amine Ben Hamida (Esperance)",
+                                                      "Dylan Bronn (Servette Geneva)",
+                                                      "Raed Chikhaoui (US Monastir)",
+                                                      "Moutaz Neffati (Norrkoping)",
+                                                      "Omar Rekik (NK Maribor)",
+                                                      "Montassar Talbi (Lorient)",
+                                                      "Yan Valery (Young Boys Berne)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Elias Achouri (FC Copenhagen)",
+                                                     "Khalil Ayari (Paris St Germain)",
+                                                     "Firas Chaouat (Club Africain)",
+                                                     "Rayan Elloumi (Vancouver ​Whitecaps)",
+                                                     "Hazem Mastouri (Dynamo Makhachkala)",
+                                                     "Elias Saad (Hannover 96)",
+                                                     "Sebastian Tounekti (Celtic)."
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Bỉ",
+                      "code":  "be",
+                      "group":  "Bảng G",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Thibaut Courtois (Real Madrid)",
+                                                        "Senne Lammens (Manchester United)",
+                                                        "Mike Penders (Racing Strasbourg)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Kevin De Bruyne (Napoli)",
+                                                        "Amadou Onana (Aston Villa)",
+                                                        "Nicolas Raskin (Rangers)",
+                                                        "Youri Tielemans (Aston Villa)",
+                                                        "Hans Vanaken (Club Brugge)",
+                                                        "Axel Witsel (Girona)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Timothy Castagne (Fulham)",
+                                                      "Zeno Debast (Sporting Lisbon)",
+                                                      "Maxim De Cuyper (Brighton \u0026 Hove Albion)",
+                                                      "Koni De Winter (AC Milan)",
+                                                      "Brandon Mechele (Club Brugge)",
+                                                      "Thomas Meunier (Lille)",
+                                                      "Nathan Ngoy (Lille)",
+                                                      "Joaquin Seys (Club Brugge)",
+                                                      "Arthur Theate (Eintracht Frankfurt)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Charles De Ketelaere (Atalanta)",
+                                                     "Jeremy Doku (Manchester City)",
+                                                     "Matias Fernandez-Pardo (Lille)",
+                                                     "Romelu Lukaku (Napoli)",
+                                                     "Dodi Lukebakio (Benfica)",
+                                                     "Diego Moreira (Racing Strasbourg)",
+                                                     "Alexis Saelemaekers (AC Milan)",
+                                                     "Leandro Trossard (Arsenal)."
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Ai Cập",
+                      "code":  "eg",
+                      "group":  "Bảng G",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Mohamed El-Shenawy",
+                                                        "Mostafa Shobeir (Al Ahly)",
+                                                        "El-Mahdi Soliman (Zamalek)",
+                                                        "Mohamed Alaa (El Gouna)."
+                                                    ],
+                                    "midfielders":  [
+                                                        "Mohamed Salah (Liverpool)",
+                                                        "Marwan Attia",
+                                                        "Ahmed Mostafa “Zizo”",
+                                                        "Mahmoud Hassan “Trezeguet”",
+                                                        "Emam Ashour (Al Ahly)",
+                                                        "Mostafa Abdel Raouf",
+                                                        "Mohannad Lasheen (Pyramids)",
+                                                        "Haitham Hassan (Real Oviedo)",
+                                                        "Mahmoud Saber (ZED)",
+                                                        "Ibrahim Adel (Nordsjælland)",
+                                                        "Nabil Emad (Al-Najma)."
+                                                    ],
+                                    "defenders":  [
+                                                      "Mohamed Abdelmonem (Nice)",
+                                                      "Mohamed Hany",
+                                                      "Yasser Ibrahim (Al Ahly)",
+                                                      "Hossam Abdelmaguid",
+                                                      "Ahmed Fattouh (Zamalek)",
+                                                      "Tarek Alaa (ZED)",
+                                                      "Rami Rabia (Al Ain)",
+                                                      "Hamdi Fathi (Al Wakrah)",
+                                                      "Karim Hafez (Pyramids)."
+                                                  ],
+                                    "forwards":  [
+                                                     "Omar Marmoush (Manchester City)",
+                                                     "Hamza Abdel Karim (Barcelona Atletic)."
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Iran",
+                      "code":  "ir",
+                      "group":  "Bảng G",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Alireza Beiranvand",
+                                                        "Seyed Hossein Hosseini",
+                                                        "Payam Niazmand"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Rouzbeh Cheshmi",
+                                                        "Saeid Ezatolahi",
+                                                        "Mehdi Ghaedi",
+                                                        "Saman Ghoddos",
+                                                        "Mohammad Ghorbani",
+                                                        "Alireza Jahanbakhsh",
+                                                        "Mohammad Mohebi",
+                                                        "Amir Mohammad Razzaghinia",
+                                                        "Mehdi Torabi",
+                                                        "Aria Yousefi"
+                                                    ],
+                                    "defenders":  [
+                                                      "Danial Eiri",
+                                                      "Ehsan Hajsafi",
+                                                      "Saleh Hardani",
+                                                      "Hossein Kanaani",
+                                                      "Shoja Khalilzadeh",
+                                                      "Milad Mohammadi",
+                                                      "Ali Nemati",
+                                                      "Ramin Rezaeian"
+                                                  ],
+                                    "forwards":  [
+                                                     "Ali Alipour",
+                                                     "Dennis Dargahi",
+                                                     "Amirhossein Hosseinzadeh",
+                                                     "Mehdi Taremi",
+                                                     "Shahriar Moghanlou"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "New Zealand",
+                      "code":  "nz",
+                      "group":  "Bảng G",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Max Crocombe (Millwall FC)",
+                                                        "Alex Paulsen (Lechia Gdansk)",
+                                                        "Michael Woud (Auckland FC)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Lachlan Bayliss (Newcastle Jets)",
+                                                        "Joe Bell (Viking FK)",
+                                                        "Matt Garbett (Peterborough United)",
+                                                        "Eli Just (Motherwell FC)",
+                                                        "Ben Old (Saint-Etienne)",
+                                                        "Alex Rufer (Wellington Phoenix)",
+                                                        "Sarpreet Singh (Wellington Phoenix)",
+                                                        "Marko Stamenic (Swansea City)",
+                                                        "Ryan Thomas (PEC Zwolle)."
+                                                    ],
+                                    "defenders":  [
+                                                      "Tim Payne (Wellington Phoenix)",
+                                                      "Francis De Vries (Auckland FC)",
+                                                      "Tyler Bindon (Nottingham Forest)",
+                                                      "Michael Boxall (Minnesota United)",
+                                                      "Liberato Cacace (Wrexham AFC)",
+                                                      "Nando Pijnaker (Auckland FC)",
+                                                      "Finn Surman (Portland Timbers)",
+                                                      "Callan Elliot (Auckland FC)",
+                                                      "Tommy Smith (Braintree Town)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Kosta Barbarouses (Western Sydney Wanderers)",
+                                                     "Callum McCowatt (Silkeborg)",
+                                                     "Jesse Randall (Auckland FC)",
+                                                     "Ben Waine (Port Vale)",
+                                                     "Chris Wood (Nottingham Forest)"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Tây Ban Nha",
+                      "code":  "es",
+                      "group":  "Bảng H",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Unai Simon (Athletic Bilbao)",
+                                                        "David Raya (Arsenal)",
+                                                        "Joan Garcia (Barcelona)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Rodri (Manchester City)",
+                                                        "Martin Zubimendi (Arsenal)",
+                                                        "Gavi (Barcelona)",
+                                                        "Pedri (Barcelona)",
+                                                        "Fabian Ruiz (Paris St Germain)",
+                                                        "Mikel Merino (Arsenal)",
+                                                        "Alex Baena (Atletico Madrid)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Pedro Porro (Tottenham Hotspur)",
+                                                      "Marcos Llorente (Atletico Madrid)",
+                                                      "Pau Cubarsi (Barcelona)",
+                                                      "Marc Pubill (Atletico Madrid)",
+                                                      "Aymeric Laporte (Athletic Bilbao)",
+                                                      "Eric Garcia (Barcelona)",
+                                                      "Alex Grimaldo (Bayer Leverkusen)",
+                                                      "Marc Cucurella (Chelsea)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Dani Olmo (Barcelona)",
+                                                     "Lamine Yamal (Barcelona)",
+                                                     "Ferran Torres (Barcelona)",
+                                                     "Yeremy Pino (Crystal Palace)",
+                                                     "Nico Williams (Athletic Bilbao)",
+                                                     "Victor Munoz (Osasuna)",
+                                                     "Mikel Oyarzabal (Real Sociedad)",
+                                                     "Borja Iglesias (Celta)"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Cape Verde",
+                      "code":  "cv",
+                      "group":  "Bảng H",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Carlos dos Santos (San Diego)",
+                                                        "Marcio Rosa (Montana 1921)",
+                                                        "Vozinha (Chaves)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Telmo Arcanjo (Vitoria Guimaraes)",
+                                                        "Deroy Duarte (Ludogorets)",
+                                                        "Laros Duarte (Puskas Akademia)",
+                                                        "Joao Paulo Fernandes (Oțelul Galați)",
+                                                        "Jamiro Monteiro (PEC Zwolle)",
+                                                        "Kevin Pina (FK Krasnodar)",
+                                                        "Yannick Semedo (Farense)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Sidny Cabral (Benfica)",
+                                                      "Diney Borges (Al Bataeh)",
+                                                      "Logan Costa (Villarreal)",
+                                                      "Roberto Lopes (Shamrock Rovers)",
+                                                      "Steven Moreira (Columbus Crew)",
+                                                      "Wagner Pina (Trabzonspor)",
+                                                      "Kelvin Pires (SJK Seinäjoki, Finland)",
+                                                      "Stopira (Torreense)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Gilson Benchimol (Russia)",
+                                                     "Jovane Cabral (Portugal)",
+                                                     "Dailon Livramento (Casa Pia)",
+                                                     "Ryan Mendes (Igdir)",
+                                                     "Nuno da Costa (Istanbul Basaksehir)",
+                                                     "Garry Rodrigues (Apollon Limassol)",
+                                                     "Willy Semedo (Omonia Nicosia)",
+                                                     "Helio Varela (Maccabi Tel Aviv)."
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Saudi Arabia",
+                      "code":  "sa",
+                      "group":  "Bảng H",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Nawaf Al Aqidi",
+                                                        "Mohamed Al Owais",
+                                                        "Ahmed Alkassar"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Ziyad Al Johani",
+                                                        "Nasser Al Dawsari",
+                                                        "Mohamed Kanno",
+                                                        "Abdullah Al Khaibari",
+                                                        "Alaa Al Hejji",
+                                                        "Musab Al Juwayr",
+                                                        "Sultan Mandash",
+                                                        "Ayman Yahya",
+                                                        "Khalid Al Ghannam"
+                                                    ],
+                                    "defenders":  [
+                                                      "Saud Abdulhamid",
+                                                      "Jehad Thakri",
+                                                      "Abdulelah Al Amri",
+                                                      "Hassan Tambakti",
+                                                      "Ali Lajami",
+                                                      "Hassan Kadesh",
+                                                      "Moteb Al Harbi",
+                                                      "Nawaf Boushal",
+                                                      "Ali Majrashi",
+                                                      "Mohammed Abu Alshamat"
+                                                  ],
+                                    "forwards":  [
+                                                     "Salem Al Dawsari",
+                                                     "Abdullah Al Hamdan",
+                                                     "Feras Al Brikan",
+                                                     "Saleh Al Shehri"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Uruguay",
+                      "code":  "uy",
+                      "group":  "Bảng H",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Sergio Rochet",
+                                                        "Fernando Muslera",
+                                                        "Santiago Mele"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Manuel Ugarte",
+                                                        "Emiliano Martínez",
+                                                        "Rodrigo Bentancur",
+                                                        "Federico Valverde",
+                                                        "Agustin Canobbio",
+                                                        "Juan Manuel Sanabria",
+                                                        "Giorgian De Arrascaeta",
+                                                        "Nicolas De La Cruz",
+                                                        "Rodrigo Zalazar",
+                                                        "Facundo Pellistri",
+                                                        "Maximiliano Araujo",
+                                                        "Brian Rodriguez"
+                                                    ],
+                                    "defenders":  [
+                                                      "Guillermo Varela",
+                                                      "Ronald Araujo",
+                                                      "Jose Maria Gimenez",
+                                                      "Santiago Bueno",
+                                                      "Sebastian Caceres",
+                                                      "Mathias Olivera",
+                                                      "Joaquin Piquerez",
+                                                      "Matias Vina"
+                                                  ],
+                                    "forwards":  [
+                                                     "Rodrigo Aguirre",
+                                                     "Federico Vinas",
+                                                     "Darwin Nunez"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Pháp",
+                      "code":  "fr",
+                      "group":  "Bảng I",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Mike Maignan (AC Milan)",
+                                                        "Robin Risser (Racing Lens)",
+                                                        "Brice Samba (Stade Rennais)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "N\u0027Golo Kante (Fenerbahce)",
+                                                        "Manu Kone (Roma)",
+                                                        "Adrien Rabiot (AC Milan)",
+                                                        "Aurelien Tchouameni (Real Madrid)",
+                                                        "Warren Zaire-Emery (Paris St Germain)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Lucas Digne (Aston Villa)",
+                                                      "Malo Gusto (Chelsea)",
+                                                      "Lucas Hernandez (Paris St Germain)",
+                                                      "Theo Hernandez (Al Hilal)",
+                                                      "Ibrahima Konate (Liverpool)",
+                                                      "Jules Kounde (Barcelona)",
+                                                      "Maxence Lacroix (Crystal Palace)",
+                                                      "​William Saliba (Arsenal)",
+                                                      "Dayot Upamecano (Bayern Munich)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Maghnes Akliouche (Monaco)",
+                                                     "Bradley Barcola (Paris St Germain)",
+                                                     "Rayan Cherki (Manchester City)",
+                                                     "Ousmane Dembele",
+                                                     "Desire Doue (both Paris St Germain)",
+                                                     "Jean-Philippe Mateta (Crystal Palace)",
+                                                     "​Kylian Mbappe (Real Madrid)",
+                                                     "Michael Olise (Bayern Munich)",
+                                                     "Marcus Thuram (Inter Milan)."
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Senegal",
+                      "code":  "sn",
+                      "group":  "Bảng I",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Edouard Mendy",
+                                                        "Mory Diaw",
+                                                        "Yehvann Diouf"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Idrissa Gana Gueye",
+                                                        "Pape Gueye",
+                                                        "Lamine Camara",
+                                                        "Habib Diarra",
+                                                        "Pathe Ciss",
+                                                        "Pape Matar Sarr",
+                                                        "Bara Sapoko Ndiaye"
+                                                    ],
+                                    "defenders":  [
+                                                      "Krepin Diatta",
+                                                      "Antoine Mendy",
+                                                      "⁠Kalidou Koulibaly",
+                                                      "El Hadji Malick Diouf",
+                                                      "Mamadou Sarr",
+                                                      "Moussa Niakhate",
+                                                      "Abdoulaye Seck",
+                                                      "Ismail Jakobs"
+                                                  ],
+                                    "forwards":  [
+                                                     "Sadio Mane",
+                                                     "Ismaila Sarr",
+                                                     "Iliman Ndiaye",
+                                                     "Assane Diao",
+                                                     "Ibrahim Mbaye",
+                                                     "Nicolas Jackson",
+                                                     "Bamba Dieng",
+                                                     "Cherif Ndiaye"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Iraq",
+                      "code":  "iq",
+                      "group":  "Bảng I",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Fahad Talib",
+                                                        "Jalal Hassan",
+                                                        "Ahmed Basil"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Amir Al Ammari",
+                                                        "Kevin Yakob",
+                                                        "Zidane Iqbal",
+                                                        "Aimar Sher",
+                                                        "Ibrahim Bayesh",
+                                                        "Ahmed Qasim",
+                                                        "Youssef Amyn",
+                                                        "Marko Farji"
+                                                    ],
+                                    "defenders":  [
+                                                      "Hussein Ali",
+                                                      "Manaf Younis",
+                                                      "Zaid Tahseen",
+                                                      "Rebin Sulaka",
+                                                      "Akam Hashem",
+                                                      "Merchas Doski",
+                                                      "Ahmed Yahya",
+                                                      "Zaid Ismail",
+                                                      "Frans Putros",
+                                                      "Mustafa Saadoon"
+                                                  ],
+                                    "forwards":  [
+                                                     "Ali Jassim",
+                                                     "Ali Al Hamadi",
+                                                     "Ali Yousef",
+                                                     "Aymen Hussein",
+                                                     "Mohanad Ali"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Na Uy",
+                      "code":  "no",
+                      "group":  "Bảng I",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Orjan Haskjold Nyland (Sevilla)",
+                                                        "Egil Selvik (Watford)",
+                                                        "Sander Tangvik (Hamburger SV)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Martin Odegaard (Arsenal)",
+                                                        "Sander Berge (Fulham)",
+                                                        "Fredrik Aursnes (Benfica)",
+                                                        "Patrick Berg (Bodo/Glimt)",
+                                                        "Kristian Thorstvedt (Sassuolo)",
+                                                        "Morten Thorsby (Cremonese)",
+                                                        "Thelo Aasgaard (Rangers)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Julian Ryerson (Borussia Dortmund)",
+                                                      "Marcus Holmgren Pedersen (Torino)",
+                                                      "David Moller Wolfe (Wolverhampton)",
+                                                      "Fredrik Bjorkan (Bodo/Glimt)",
+                                                      "Kristoffer Ajer (Brentford)",
+                                                      "Torbjorn Heggem (Bologna)",
+                                                      "Leo Skiri Ostigard (Genoa)",
+                                                      "Sondre Langas (Derby County)",
+                                                      "Henrik Falchener (Viking)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Erling Haaland (Manchester City)",
+                                                     "Alexander Sorloth (Atletico Madrid)",
+                                                     "Jorgen Strand Larsen (Crystal Palace)",
+                                                     "Antonio Nusa (RB Leipzig)",
+                                                     "Oscar Bobb (Fulham)",
+                                                     "Andreas Schjelderup (Benfica)",
+                                                     "Jens Petter Hauge (Bodo/Glimt)."
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Argentina",
+                      "code":  "ar",
+                      "group":  "Bảng J",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Emiliano Martinez (Aston Villa)",
+                                                        "Geronimo Rulli (Marseille)",
+                                                        "Juan Musso (Atletico Madrid)."
+                                                    ],
+                                    "midfielders":  [
+                                                        "Leandro Paredes (Boca Juniors)",
+                                                        "Rodrigo De ​Paul (Inter Miami)",
+                                                        "Valentin Barco (Strasbourg)",
+                                                        "Giovani Lo Celso (Betis)",
+                                                        "Exequiel Palacios (Bayer Leverkusen)",
+                                                        "Alexis Mac Allister (Liverpool)",
+                                                        "Enzo Fernandez (Chelsea)."
+                                                    ],
+                                    "defenders":  [
+                                                      "Leonardo Balerdi (Marseille)",
+                                                      "Gonzalo Montiel (River Plate)",
+                                                      "Nicolas Tagliafico (Lyon)",
+                                                      "Lisandro Martinez (Manchester United)",
+                                                      "Cristian Romero (Tottenham Hotspur)",
+                                                      "Nicolas Otamendi (Benfica)",
+                                                      "Facundo Medina (Marseille)",
+                                                      "Nahuel Molina (Atletico Madrid)."
+                                                  ],
+                                    "forwards":  [
+                                                     "Julian Alvarez (Atletico Madrid)",
+                                                     "Lionel Messi (Inter Miami)",
+                                                     "Nicolas Gonzalez (Atletico Madrid)",
+                                                     "Thiago Almada (Atletico Madrid)",
+                                                     "Giuliano Simeone (Atletico Madrid)",
+                                                     "Nicolas Paz (Como)",
+                                                     "Jose Manuel Lopez (Palmeiras)",
+                                                     "Lautaro Martinez (Inter Milan)."
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Algeria",
+                      "code":  "dz",
+                      "group":  "Bảng J",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Oussama Benbot (USM Alger)",
+                                                        "Melvin Masstil (Stade Nyonnaise)",
+                                                        "Luca Zidane (Granada)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Houssem Aouar (Al Ittihad)",
+                                                        "Nabil Bentaleb (Lille)",
+                                                        "Hicham Boudaoui (Nice)",
+                                                        "Fares Chaibi (Eintracht Frankfurt)",
+                                                        "Ibrahim Maza (Bayer Leverkusen)",
+                                                        "Yassine Titraoui (Charleroi)",
+                                                        "Ramiz Zerrouki (FC Twente)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Achraf Abada (USM Alger)",
+                                                      "Rayan Ait Nouri (Manchester City)",
+                                                      "Zinedine Belaid (JS Kabylie)",
+                                                      "Rafik Belghali (Verona)",
+                                                      "Ramy Bensebaini (Borussia Dortmund)",
+                                                      "Samir Chergui (Paris FC)",
+                                                      "Jaouen Hadjam (Young Boys Bern)",
+                                                      "Aissa Mandi (Lille)",
+                                                      "Mohamed Amine Tougai (Esperance)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Mohamed Amine Amoura (VfL Wolfsburg)",
+                                                     "Nadir Benbouali (Győri ETO)",
+                                                     "Adil Boulbina (Al-Duhail)",
+                                                     "Fares Ghedjemis (Frosinone)",
+                                                     "Amine ​Gouiri (Olympique de Marseille)",
+                                                     "Riyad Mahrez (Al-Ahli)",
+                                                     "Anis Hadj Moussa (Feyenoord Rotterdam)."
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Áo",
+                      "code":  "at",
+                      "group":  "Bảng J",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Patrick Pentz (Brondby IF)",
+                                                        "Alexander Schlager (FC Red Bull Salzburg)",
+                                                        "Florian Wiegele (Viktoria Pilsen)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Carney Chukwuemeka (Borussia Dortmund)",
+                                                        "Florian Grillitsch (SC Braga)",
+                                                        "Konrad Laimer (FC Bayern Munich)",
+                                                        "Marcel Sabitzer (Borussia Dortmund)",
+                                                        "Xaver Schlager (RB Leipzig)",
+                                                        "Romano Schmid (SV Werder Bremen)",
+                                                        "Alessandro Schopf (RZ Pellets WAC)",
+                                                        "Nicolas Seiwald (RB Leipzig)",
+                                                        "Paul Wanner (PSV Eindhoven)",
+                                                        "Patrick Wimmer (VfL Wolfsburg)"
+                                                    ],
+                                    "defenders":  [
+                                                      "David Affengruber (Elche CF)",
+                                                      "David Alaba (Real Madrid)",
+                                                      "Kevin Danso (Tottenham Hotspur)",
+                                                      "Marco Friedl (SV Werder Bremen)",
+                                                      "Philipp Lienhart (SC Freiburg)",
+                                                      "Phillipp Mwene (FSV Mainz 05)",
+                                                      "Stefan Posch (FSV Mainz 05)",
+                                                      "Alexander Prass (TSG 1899 Hoffenheim)",
+                                                      "Michael Svoboda (Venezia FC)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Marko Arnautovic (FK Crvena Zvezda)",
+                                                     "Michael Gregoritsch (FC Augsburg)",
+                                                     "Sasa Kalajdzic (LASK)"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Jordan",
+                      "code":  "jo",
+                      "group":  "Bảng J",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Yazeed Abu Laila",
+                                                        "Abdullah Al‑Fakhouri",
+                                                        "Noor Bani Attieh."
+                                                    ],
+                                    "midfielders":  [
+                                                        "Noor Al‑Rawabdeh",
+                                                        "Nizar Al‑Rashdan",
+                                                        "Ibrahim Saadeh",
+                                                        "Rajaei Ayed",
+                                                        "Amer Jamous",
+                                                        "Mohammad Al‑Daoud",
+                                                        "Mahmoud Al‑Mardi."
+                                                    ],
+                                    "defenders":  [
+                                                      "Abdullah Nasib",
+                                                      "Saad Al‑Rosan",
+                                                      "Yazan Al‑Arab",
+                                                      "Saleem Obeid",
+                                                      "Mohammad Abu Al‑Nadi",
+                                                      "Hossam Abu Al‑Dahab",
+                                                      "Ehsan Haddad",
+                                                      "Anas Bani",
+                                                      "Muhannad Abu Taha",
+                                                      "Mohammad Abu Hasheesh."
+                                                  ],
+                                    "forwards":  [
+                                                     "Mousa Al‑Tamari",
+                                                     "Ouda Al‑Fakhouri",
+                                                     "Mohammad Abu Zraiq",
+                                                     "Ali Azaizeh",
+                                                     "Ibrahim Sabra",
+                                                     "Ali Olwan."
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Bồ Đào Nha",
+                      "code":  "pt",
+                      "group":  "Bảng K",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Diogo Costa (Porto)",
+                                                        "Jose Sa (Wolverhampton Wanderers)",
+                                                        "Rui Silva (Sporting CP)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Ruben Neves (Al Hilal)",
+                                                        "Samuel Costa (Mallorca)",
+                                                        "Joao Neves (PSG)",
+                                                        "Vitinha (PSG)",
+                                                        "Bruno Fernandes (Manchester United)",
+                                                        "Bernardo Silva (Manchester City)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Diogo Dalot (Manchester United)",
+                                                      "Matheus Nunes (Manchester City)",
+                                                      "Nelson Semedo (Fenerbahce SK)",
+                                                      "Joao Cancelo (FC Barcelona)",
+                                                      "Nuno Mendes (PSG)",
+                                                      "Goncalo Inacio (Sporting)",
+                                                      "Renato Veiga (Villarreal)",
+                                                      "Ruben Dias (Manchester City)",
+                                                      "Tomas Araujo (SL Benfica)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Joao Felix (Al Nassr)",
+                                                     "Francisco Trincao (Sporting CP)",
+                                                     "Francisco Conceicao (Juventus)",
+                                                     "Pedro Neto (Chelsea)",
+                                                     "Rafael Leao (AC Milan)",
+                                                     "Goncalo Guedes (Real Sociedad)",
+                                                     "Goncalo Ramos (PSG); Cristiano Ronaldo (Al Nassr)"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Congo",
+                      "code":  "cd",
+                      "group":  "Bảng K",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Matthieu Epolo (Standard Liège)",
+                                                        "Timothy Fayulu (Noah)",
+                                                        "Lionel Mpasi (Le Havre)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Theo Bongonda (Spartak Moscow)",
+                                                        "Brian Cipenga (Castellon)",
+                                                        "Meshack Elia (Alanyaspor)",
+                                                        "Gael Kakuta (Larisa)",
+                                                        "Edo Kayembe (Watford)",
+                                                        "Nathanael Mbuku (Montpellier)",
+                                                        "Samuel Moutoussamy (Atromitos)",
+                                                        "Ngal\u0027ayel Mukau (Lille)",
+                                                        "Charles Pickel (Espanyol)",
+                                                        "Noah Sadiki (Sunderland)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Dylan Batubinsika (Larisa)",
+                                                      "Rocky Bushiri (Hibernian)",
+                                                      "Gedoon Kalulu (Aris Limassol)",
+                                                      "Steve Kapuadi (Widzew Lodz)",
+                                                      "Joris Kayembe (Racing Genk)",
+                                                      "Arthur Masuaku (Racing Lens)",
+                                                      "Chancel Mbemba (Lille)",
+                                                      "Axel Tuanzebe (Burnley)",
+                                                      "Aaron Wan-Bissaka (West Ham United)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Cedric Bakambu (Real Betis)",
+                                                     "Simon Banza (Al Jazira)",
+                                                     "Fiston Mayele (Pyramids)",
+                                                     "Yoane Wissa (Newcastle United)."
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Uzbekistan",
+                      "code":  "uz",
+                      "group":  "Bảng K",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Utkir Yusupov (Navbahor)",
+                                                        "Abduvohid Nematov (Nasaf)",
+                                                        "Botirali Ergashev (Neftchi)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Otabek Shukurov (Baniyas)",
+                                                        "Jaloliddin Masharipov (Esteghlal)",
+                                                        "Odiljon Hamrobekov (Tractor)",
+                                                        "Oston Urunov (Persepolis)",
+                                                        "Jamshid Iskanderov (Neftchi)",
+                                                        "Dostonbek Khamdamov (Pakhtakor)",
+                                                        "Abbosbek Fayzullaev (Istanbul Basaksehir)",
+                                                        "Akmal Mozgovoy (Pakhtakor)",
+                                                        "Azizjon Ganiev (Al Bataeh)",
+                                                        "Sherzod Esanov (Bukhara)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Rustam Ashurmatov (Esteghlal)",
+                                                      "Farrukh Sayfiev (Neftchi)",
+                                                      "Khojiakbar Alijonov (Pakhtakor)",
+                                                      "Sherzod Nasrullaev (Nasaf)",
+                                                      "Umar Eshmurodov (Nasaf)",
+                                                      "Abdukodir Khusanov (Manchester City)",
+                                                      "Abdulla Abdullaev (Dibba)",
+                                                      "Bekhruz Karimov (Surkhon)",
+                                                      "Jakhongir Urozov (Dinamo Samarqand)",
+                                                      "Avazbek Ulmasaliev (AGMK)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Eldor Shomurodov (Istanbul Basaksehir)",
+                                                     "Igor Sergeev (Persepolis)",
+                                                     "Azizbek Amonov (Bukhara)"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Colombia",
+                      "code":  "co",
+                      "group":  "Bảng K",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Camilo Vargas (Atlas)",
+                                                        "Alvaro Montero (Velez Sarsfield)",
+                                                        "David Ospina (Atletico Nacional)."
+                                                    ],
+                                    "midfielders":  [
+                                                        "​Richard Rios (Benfica)",
+                                                        "Jefferson Lerma (Crystal Palace)",
+                                                        "Kevin Castano (River Plate)",
+                                                        "Juan Camilo Portilla (Athletico Paranaense)",
+                                                        "Gustavo Puerta (Racing de Santander)",
+                                                        "Jhon Arias (Palmeiras)",
+                                                        "Jorge Carrascal (Flamengo)",
+                                                        "Juan Fernando Quintero (River Plate)",
+                                                        "James Rodriguez (Minnesota United)",
+                                                        "Jaminton Campaz (Rosario Central)."
+                                                    ],
+                                    "defenders":  [
+                                                      "Davinson Sanchez (Galatasaray)",
+                                                      "Jhon Lucumi (Bologna)",
+                                                      "Yerry Mina (Cagliari)",
+                                                      "Willer Ditta (Cruz Azul)",
+                                                      "Daniel Munoz (Crystal Palace)",
+                                                      "Santiago Arias (Independiente)",
+                                                      "Johan Mojica (Mallorca)",
+                                                      "Deiver Machado (Nantes)."
+                                                  ],
+                                    "forwards":  [
+                                                     "Juan Camilo Hernandez (Real Betis)",
+                                                     "Luis Diaz (Bayern Munich)",
+                                                     "Luis Suarez (Sporting CP)",
+                                                     "Carlos Andres Gomez (Vasco da Gama)",
+                                                     "Jhon Cordoba (FC Krasnodar)."
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Anh",
+                      "code":  "gb-eng",
+                      "group":  "Bảng L",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Jordan Pickford (Everton)",
+                                                        "Dean Henderson (Crystal Palace)",
+                                                        "James Trafford (Man City)."
+                                                    ],
+                                    "midfielders":  [
+                                                        "Declan Rice (Arsenal)",
+                                                        "Elliot Anderson (Nottingham Forest)",
+                                                        "Kobbie Mainoo (Man Utd)",
+                                                        "Jordan Henderson (Brentford)",
+                                                        "Morgan Rogers (Aston Villa)",
+                                                        "Jude Bellingham (Real Madrid)",
+                                                        "Eberechi Eze (Arsenal)."
+                                                    ],
+                                    "defenders":  [
+                                                      "Reece James (Chelsea)",
+                                                      "Ezri Konsa (Aston Villa)",
+                                                      "Jarell Quansah (Bayer Leverkusen)",
+                                                      "John Stones (Man City)",
+                                                      "Marc Guehi (Man City)",
+                                                      "Dan Burn (Newcastle)",
+                                                      "Nico O\u0027Reilly (Man City)",
+                                                      "Djed Spence (Tottenham)",
+                                                      "Tino Livramento (Newcastle)."
+                                                  ],
+                                    "forwards":  [
+                                                     "Harry Kane (Bayern Munich)",
+                                                     "Ivan Toney (Al-Ahli)",
+                                                     "Ollie Watkins (Aston Villa)",
+                                                     "Bukayo Saka (Arsenal)",
+                                                     "Marcus Rashford (Barcelona)",
+                                                     "Anthony Gordon (Newcastle)",
+                                                     "Noni Madueke (Arsenal)."
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Croatia",
+                      "code":  "hr",
+                      "group":  "Bảng L",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Dominik Livakovic (Dinamo Zagreb)",
+                                                        "Dominik Kotarski (Copenhagen)",
+                                                        "Ivor Pandur (Hull City)"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Luka Modric (Milan)",
+                                                        "Mateo Kovacic (Manchester City)",
+                                                        "Mario Pasalic (Atalanta)",
+                                                        "Nikola Vlasic (Torino)",
+                                                        "Luka Sucic (Real Sociedad)",
+                                                        "Martin Baturina (Como)",
+                                                        "Petar Sucic (Inter Milan)",
+                                                        "​Nikola Moro (Bologna)",
+                                                        "Toni Fruk (Rijeka)"
+                                                    ],
+                                    "defenders":  [
+                                                      "Josko Gvardiol (Manchester City)",
+                                                      "Duje Caleta-Car (Real Sociedad)",
+                                                      "Josip Sutalo (Ajax)",
+                                                      "Josip Stanisic (Bayern Munich)",
+                                                      "Marin Pongracic (Fiorentina)",
+                                                      "Kristijan Jakic (Augsburg)",
+                                                      "Martin Erlic (Midtjylland)",
+                                                      "Luka Vuskovic (Hamburg SV)"
+                                                  ],
+                                    "forwards":  [
+                                                     "Ivan Perisic (PSV Eindhoven)",
+                                                     "Andrej Kramaric (Hoffenheim)",
+                                                     "Ante Budimir (Osasuna)",
+                                                     "Marco Pasalic (Orlando City)",
+                                                     "Petar Musa (Dallas)",
+                                                     "Igor Matanovic (Freiburg)"
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Ghana",
+                      "code":  "gh",
+                      "group":  "Bảng L",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Joseph Anang",
+                                                        "Benjamin Asare",
+                                                        "Lawrence Ati-Zigi"
+                                                    ],
+                                    "midfielders":  [
+                                                        "Augustine Boakye",
+                                                        "Abdul Fatawu Issahaku",
+                                                        "Elisha Owusu",
+                                                        "Thomas Partey",
+                                                        "Kwasi Sibo",
+                                                        "Kamal Deen Sulemana",
+                                                        "Caleb Yirenkyi"
+                                                    ],
+                                    "defenders":  [
+                                                      "Jonas Adjetey",
+                                                      "Derrick Luckassen",
+                                                      "Gideon Mensah",
+                                                      "Abdul Mumin",
+                                                      "Jerome Opoku",
+                                                      "Kojo Oppong Preprah",
+                                                      "Baba Abdul Rahman",
+                                                      "Alidu Seidu",
+                                                      "Marvin Senaya"
+                                                  ],
+                                    "forwards":  [
+                                                     "Prince Kwabena Adu",
+                                                     "Jordan Ayew",
+                                                     "Christopher Bonsu Baah",
+                                                     "Ernest Nuamah",
+                                                     "Antoine Semenyo",
+                                                     "Brandon Thomas-Asante",
+                                                     "Inaki Williams."
+                                                 ]
+                                }
+                  },
+                  {
+                      "name":  "Panama",
+                      "code":  "pa",
+                      "group":  "Bảng L",
+                      "squad":  {
+                                    "goalkeepers":  [
+                                                        "Orlando Mosquera",
+                                                        "Luis Mejia",
+                                                        "Cesar Samudio."
+                                                    ],
+                                    "midfielders":  [
+                                                        "Anibal Godoy",
+                                                        "Adalberto Carrasquilla",
+                                                        "Carlos Harvey",
+                                                        "Cristian Martinez",
+                                                        "Jose Luis Rodriguez",
+                                                        "Cesar Yanis",
+                                                        "Yoel Barcenas",
+                                                        "Alberto Quintero",
+                                                        "Azarias Londono."
+                                                    ],
+                                    "defenders":  [
+                                                      "Cesar Blackman",
+                                                      "Jorge Gutierrez",
+                                                      "Amir Murillo",
+                                                      "Fidel Escobar",
+                                                      "Andres Andrade",
+                                                      "Edgardo Farina",
+                                                      "Jose Cordoba",
+                                                      "Eric Davis",
+                                                      "Jiovany Ramos",
+                                                      "Roderick Miller."
+                                                  ],
+                                    "forwards":  [
+                                                     "Ismael Diaz",
+                                                     "Cecilio Waterman",
+                                                     "Jose Fajardo",
+                                                     "Tomas Rodriguez"
+                                                 ]
+                                }
+                  }
+              ],
+    "top_players":  [
+                        {
+                            "id":  1,
+                            "name":  "Lionel Messi",
+                            "country":  "Argentina",
+                            "image":  "Stars/Lionel-Messi-celebrates-scoring-for-Argentina-against-Bolivia-in-FIFA-World-Cup-2026-qualifying.avif",
+                            "full_name":  "Lionel Andrés Messi",
+                            "nickname":  "La Pulga (Bọ chét nguyên tử)",
+                            "dob":  "24/6/1987",
+                            "age":  38,
+                            "height":  "1m70",
+                            "position":  "Tiền đạo / Hộ công / Tiền vệ tấn công",
+                            "club":  "Inter Miami CF",
+                            "caps":  "Hơn 190 trận",
+                            "goals":  "Hơn 110 bàn",
+                            "is_captain":  true,
+                            "achievements":  "Vô địch World Cup 2022, 2 lần vô địch Copa America (2021, 2024), 8 Quả bóng vàng Ballon d\u0027Or, giành tổng cộng 40 danh hiệu tập thể lớn nhỏ.",
+                            "strengths":  "Khả năng rê bóng siêu hạng trong không gian hẹp, kiến tạo xuất sắc, nhãn quan chiến thuật đỉnh cao, đá phạt hiểm hóc và tư duy chơi bóng thiên tài.",
+                            "fun_facts":  [
+                                              "Từng bị thiếu hormone tăng trưởng lúc nhỏ và Barca suýt từ chối ký hợp đồng vì thể hình nhỏ bé.",
+                                              "Bản hợp đồng đầu tiên với Barcelona được ký tạm trên một tờ khăn giấy.",
+                                              "Được đặt tên theo ca sĩ nổi tiếng Lionel Richie."
+                                          ]
+                        },
+                        {
+                            "id":  2,
+                            "name":  "Cristiano Ronaldo",
+                            "country":  "Portugal",
+                            "image":  "Stars/975480696.avif",
+                            "full_name":  "Cristiano Ronaldo dos Santos Aveiro",
+                            "nickname":  "CR7",
+                            "dob":  "5/2/1985",
+                            "age":  41,
+                            "height":  "1m87",
+                            "position":  "Tiền đạo",
+                            "club":  "Al Nassr FC",
+                            "caps":  "226 trận",
+                            "goals":  "143 bàn",
+                            "is_captain":  true,
+                            "achievements":  "Vô địch EURO 2016, 5 chức vô địch UEFA Champions League, chân sút vĩ đại nhất lịch sử Champions League (140 bàn) và Real Madrid (450 bàn).",
+                            "strengths":  "Khả năng săn bàn toàn diện, dứt điểm tốt hai chân, không chiến đẳng cấp thế giới, tốc độ, sức mạnh thể chất và ý chí thi đấu phi thường.",
+                            "fun_facts":  [
+                                              "Sinh ra ở đảo Madeira và từng phải phụ giúp gia đình quét đường phố khi còn nhỏ.",
+                                              "Hồi ở MU từng buộc thêm tạ vào chân khi tập luyện để tăng kỹ năng xử lý bóng nhanh.",
+                                              "Từng bật nhảy cao tới 2m56 để đánh đầu ghi bàn trong trận gặp Sampdoria năm 2019."
+                                          ]
+                        },
+                        {
+                            "id":  3,
+                            "name":  "Kylian Mbappé",
+                            "country":  "France",
+                            "image":  "Stars/Kylian-Mbappe-kisses-the-FIFA-World-Cup-trophy-after-France-beat-Croatia-in-the-Russia-2018-final.avif",
+                            "full_name":  "Kylian Mbappé Lottin",
+                            "nickname":  "Cậu bé vàng nước Pháp / 37",
+                            "dob":  "20/12/1998",
+                            "age":  27,
+                            "height":  "1m78",
+                            "position":  "Tiền đạo / Tiền đạo cánh",
+                            "club":  "Real Madrid CF",
+                            "caps":  "94 trận",
+                            "goals":  "55 bàn",
+                            "is_captain":  true,
+                            "achievements":  "Vô địch World Cup 2018, Á quân World Cup 2022 (Vua phá lưới với 8 bàn và hat-trick trong trận chung kết), chân sút số một lịch sử PSG (256 bàn).",
+                            "strengths":  "Tốc độ bứt phá kinh hoàng, kỹ thuật tăng tốc đi bóng lắt léo, dứt điểm sắc bén cả hai chân và bản lĩnh thi đấu cực lớn trong các trận cầu sinh tử.",
+                            "fun_facts":  [
+                                              "Lúc 14 tuổi từng được Zinedine Zidane trực tiếp đón tiếp khi đến tập thử tại Real Madrid.",
+                                              "Được đồng đội đặt biệt danh là \u002737\u0027 sau pha bứt tốc đạt vận tốc 37 km/h trước Argentina năm 2018.",
+                                              "Năm 2024, trở thành một trong những ông chủ CLB trẻ nhất châu Âu khi mua lại phần lớn cổ phần của Stade Malherbe Caen."
+                                          ]
+                        },
+                        {
+                            "id":  4,
+                            "name":  "Vinícius Júnior",
+                            "country":  "Brazil",
+                            "image":  "Stars/Vinicius-Junior-of-Brazil-during-the-International-Friendly-match-against-Senegal.avif",
+                            "full_name":  "Vinícius José Paixão de Oliveira Júnior",
+                            "nickname":  "Malvadeza (Kẻ tinh quái) / Vini Jr.",
+                            "dob":  "12/7/2000",
+                            "age":  26,
+                            "height":  "1m76",
+                            "position":  "Tiền đạo cánh",
+                            "club":  "Real Madrid",
+                            "caps":  "Hơn 40 trận",
+                            "goals":  "8 bàn",
+                            "is_captain":  false,
+                            "achievements":  "2 chức vô địch UEFA Champions League (đều ghi bàn ở chung kết), 3 La Liga, đoạt giải FIFA The Best 2024 (cầu thủ Brazil đầu tiên giành giải này từ sau Kaka năm 2007).",
+                            "strengths":  "Đại diện tiêu biểu của \u0027Jogo Bonito\u0027 với tốc độ xé gió, khả năng đi bóng một-đối-một lắt léo ở hành lang cánh trái, xử lý đột biến cao.",
+                            "fun_facts":  [
+                                              "Bắt đầu sự nghiệp từ bộ môn futsal trong nhà trước khi chuyển hẳn sang sân cỏ 11 người.",
+                                              "Biệt danh \u0027Malvadeza\u0027 do CĐV Brazil đặt nhằm mô tả lối chơi tinh quái khiến các hậu vệ đối phương khổ sở.",
+                                              "Mặc chiếc áo số 7 huyền thoại tại Real Madrid, thừa hưởng từ Eden Hazard, trước đó là Cristiano Ronaldo."
+                                          ]
+                        },
+                        {
+                            "id":  5,
+                            "name":  "Luka Modrić",
+                            "country":  "Croatia",
+                            "image":  "Stars/Luka-Modric-of-Croatia-reacts-during-the-international-friendly-match-between-Brazil-and-Croatia-at-Camping-World-Stadium.avif",
+                            "full_name":  "Luka Modrić",
+                            "nickname":  "Nhạc trưởng tài hoa",
+                            "dob":  "9/9/1985",
+                            "age":  41,
+                            "height":  "1m72",
+                            "position":  "Tiền vệ trung tâm / Tiền vệ tổ chức",
+                            "club":  "AC Milan",
+                            "caps":  "196 trận",
+                            "goals":  "Hơn 25 bàn",
+                            "is_captain":  true,
+                            "achievements":  "Quả bóng vàng Ballon d\u0027Or 2018, Á quân World Cup 2018, hạng ba World Cup 2022, 6 chức vô địch Champions League (giàu thành tích nhất lịch sử Real Madrid với 28 cúp).",
+                            "strengths":  "Nhãn quan chiến thuật lỗi lạc, khả năng cầm nhịp thoát pressing đỉnh cao, các đường chuyền má ngoài (trivela) mang thương hiệu riêng và sự dẻo dai khó tin.",
+                            "fun_facts":  [
+                                              "Thời thơ ấu từng phải chơi bóng trên những đường phố đổ nát trong thời kỳ chiến tranh ở Croatia.",
+                                              "Từng bị nhiều CLB chê vì thể hình quá nhỏ con lúc bắt đầu sự nghiệp.",
+                                              "Chuyển từ Real Madrid sang AC Milan sau 13 năm đỉnh cao tại Tây Ban Nha."
+                                          ]
+                        },
+                        {
+                            "id":  6,
+                            "name":  "Mohamed Salah",
+                            "country":  "Egypt",
+                            "image":  "Stars/Egypt-s-forward-10-Mohamed-Salah-removes-the-captain-s-armband-during-the-Africa-Cup-of-Nations-CAN-third-place-football-match-between-Egypt-and-Nigeria-at-the-Mohammed-V-Stadium-in-Casablanca-on-January-17-2026.avif",
+                            "full_name":  "Mohamed Salah Hamed Mahrous Ghaly",
+                            "nickname":  "Vua Ai Cập (The Egyptian King)",
+                            "dob":  "15/6/1992",
+                            "age":  34,
+                            "height":  "1m75",
+                            "position":  "Tiền đạo cánh / Tiền đạo",
+                            "club":  "Liverpool",
+                            "caps":  "Hơn 100 trận",
+                            "goals":  "67 bàn",
+                            "is_captain":  true,
+                            "achievements":  "Vô địch Champions League \u0026 Premier League cùng Liverpool, 4 lần giành Chiếc giày vàng Ngoại Hạng Anh, cầu thủ châu Phi ghi nhiều bàn nhất lịch sử Premier League.",
+                            "strengths":  "Tốc độ bứt tốc cực ngắn cực nhanh, những pha rẽ bóng từ biên phải vào trung lộ rồi dứt điểm cứa lòng bằng chân trái sở trường vô cùng chuẩn xác.",
+                            "fun_facts":  [
+                                              "Hồi trẻ từng phải đi xe buýt hơn 4 tiếng mỗi ngày để vừa đi học vừa đi tập bóng.",
+                                              "Cực kỳ đam mê cờ vua, đạt mức điểm 1.400 trên Chess.com và từng công khai thách đấu Magnus Carlsen.",
+                                              "Coi Francesco Totti, Ronaldo Nazario và Zinedine Zidane là thần tượng bóng đá lớn nhất."
+                                          ]
+                        },
+                        {
+                            "id":  7,
+                            "name":  "Lamine Yamal",
+                            "country":  "Spain",
+                            "image":  "Stars/GettyImages-2218119058.avif",
+                            "full_name":  "Lamine Yamal Nasraoui Ebana",
+                            "nickname":  "Thần đồng La Masia",
+                            "dob":  "13/7/2007",
+                            "age":  19,
+                            "height":  "1m80",
+                            "position":  "Tiền đạo cánh",
+                            "club":  "Barcelona",
+                            "caps":  "23 trận",
+                            "goals":  "6 bàn",
+                            "is_captain":  false,
+                            "achievements":  "Vô địch EURO 2024 cùng Tây Ban Nha (nhận giải Cầu thủ trẻ xuất sắc nhất), 2 chức vô địch La Liga, là cầu thủ trẻ nhất lịch sử ra sân và ghi bàn cho ĐT Tây Ban Nha.",
+                            "strengths":  "Kỹ năng rê dắt lắt léo đột phá ở hành lang biên phải, nhãn quan kiến tạo sắc sảo và sự tự tin, điềm tĩnh đáng kinh ngạc ở độ tuổi thiếu niên.",
+                            "fun_facts":  [
+                                              "Khi mới 6 tháng tuổi, từng xuất hiện trong bức ảnh từ thiện được huyền thoại Lionel Messi tắm cho.",
+                                              "Tại EURO 2024, Yamal vẫn phải tranh thủ học trực tuyến và làm bài tập về nhà mỗi khi rảnh.",
+                                              "Kiểu ăn mừng giơ ngón tay \u0027304\u0027 là mã số bưu chính của khu phố nghèo Rocafonda nơi anh lớn lên."
+                                          ]
+                        },
+                        {
+                            "id":  8,
+                            "name":  "Son Heung-min",
+                            "country":  "South Korea",
+                            "image":  "Stars/Son-Heungmin-in-action-against-Cote-d-Ivoire.avif",
+                            "full_name":  "Son Heung-min",
+                            "nickname":  "Sonaldo / Niềm tự hào châu Á",
+                            "dob":  "8/7/1992",
+                            "age":  34,
+                            "height":  "1m83",
+                            "position":  "Tiền đạo cánh / Tiền đạo",
+                            "club":  "Los Angeles FC",
+                            "caps":  "140 trận",
+                            "goals":  "54 bàn",
+                            "is_captain":  true,
+                            "achievements":  "Vô địch UEFA Europa League 2025 cùng Tottenham (danh hiệu lớn đầu tiên của anh tại CLB), Chiếc giày vàng Ngoại Hạng Anh 2021/22, giành giải FIFA Puskas 2019.",
+                            "strengths":  "Tốc độ phản công sắc bén, khả năng dứt điểm cực tốt bằng cả hai chân từ ngoài vòng cấm, tinh thần thi đấu bền bỉ và thủ lĩnh gương mẫu.",
+                            "fun_facts":  [
+                                              "Được huấn luyện nghiêm khắc bởi người cha (cựu danh thủ bóng đá) và không gia nhập CLB chính thức nào cho đến tận năm 13 tuổi.",
+                                              "Ở mùa giải đoạt Chiếc giày vàng Ngoại Hạng Anh, ghi 11 bàn chân phải và 12 bàn chân trái (không có quả phạt đền nào).",
+                                              "Chuyển đến thi đấu cho Los Angeles FC tại giải nhà nghề Mỹ (MLS) từ tháng 8 năm 2025."
+                                          ]
+                        },
+                        {
+                            "id":  9,
+                            "name":  "Erling Haaland",
+                            "country":  "Norway",
+                            "image":  "Stars/Erling-Haaland-celebrates-following-Norway-s-4-1-win-over-Estonia-in-Oslo-in-European-qualifying-for-the-FIFA-World-Cup-2026.avif",
+                            "full_name":  "Erling Braut Haaland",
+                            "nickname":  "Kẻ hủy diệt / Máy quét bàn thắng",
+                            "dob":  "21/7/2000",
+                            "age":  26,
+                            "height":  "1m95",
+                            "position":  "Tiền đạo",
+                            "club":  "Manchester City",
+                            "caps":  "Hơn 45 trận",
+                            "goals":  "Hơn 50 bàn",
+                            "is_captain":  false,
+                            "achievements":  "Cú ăn ba lịch sử cùng Man City (Champions League, Premier League), phá kỷ lục ghi bàn Ngoại hạng Anh trong một mùa (36 bàn), Vua phá lưới nhiều mùa giải liên tiếp.",
+                            "strengths":  "Sự kết hợp hoàn hảo giữa thể hình hộ pháp (1m95) và tốc độ bứt tốc kinh hoàng, chọn vị trí nhạy bén cùng khả năng dứt điểm một chạm tàn nhẫn.",
+                            "fun_facts":  [
+                                              "Mẹ là nhà vô địch 7 môn phối hợp tại Na Uy, còn bản thân Haaland từng nắm kỷ lục thế giới nhảy xa tại chỗ ở lứa tuổi lên 5 (1m63).",
+                                              "Từng lập nhóm nhạc rap mang tên \u0027Flow Kingz\u0027 cùng các đồng đội ở đội trẻ Na Uy.",
+                                              "Thích ăn mừng theo tư thế ngồi thiền (yoga) truyền cảm hứng và thích nghe nhạc của Bob Marley."
+                                          ]
+                        },
+                        {
+                            "id":  10,
+                            "name":  "Harry Kane",
+                            "country":  "England",
+                            "image":  "Stars/GettyImages-2161532093.avif",
+                            "full_name":  "Harry Edward Kane",
+                            "nickname":  "HurriKane",
+                            "dob":  "28/7/1993",
+                            "age":  33,
+                            "height":  "1m88",
+                            "position":  "Tiền đạo",
+                            "club":  "Bayern Munich",
+                            "caps":  "Hơn 100 trận",
+                            "goals":  "Hơn 70 bàn",
+                            "is_captain":  true,
+                            "achievements":  "Chân sút vĩ đại nhất lịch sử ĐT Anh, Vua phá lưới World Cup 2018 (Chiếc giày vàng), Vua phá lưới Premier League (3 lần) và Bundesliga, Vô địch Bundesliga 2024/25.",
+                            "strengths":  "Khả năng dứt điểm toàn diện bằng hai chân và đầu, kỹ thuật lùi sâu làm bóng phát động tấn công đẳng cấp tiền vệ và sút phạt đền cực kỳ lạnh lùng.",
+                            "fun_facts":  [
+                                              "Từng học cùng trường cũ với cựu danh thủ David Beckham và từng bị học viện Arsenal thải loại khi mới 8 tuổi vì hơi mập.",
+                                              "Từng phải đóng vai thủ môn bất đắc dĩ cho Tottenham năm 2014 khi thủ thành Lloris nhận thẻ đỏ (và đã để lọt lưới một bàn hài hước).",
+                                              "Rất mê bóng bầu dục Mỹ (NFL) và có ước mơ trở thành cầu thủ đá phạt tại giải này sau khi giải nghệ."
+                                          ]
+                        }
+                    ]
+}

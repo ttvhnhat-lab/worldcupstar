@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FIFA World Cup 2026 - Danh sách Đội tuyển & Ngôi sao</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Wide Banner Visual (Responsive Image) -->
+    <div class="banner-container">
+        <img src="banner.png" alt="FIFA World Cup 2026 Banner" class="banner-img">
+        <div class="hero-overlay"></div>
+    </div>
+
+    <!-- Title Section Below Banner -->
+    <header class="header-section">
+        <img src="2026_FIFA_World_Cup_emblem.svg.png" alt="FIFA World Cup 2026 Logo" class="header-logo">
+        <div class="header-text">
+            <h1 class="glow-text">WORLD CUP 2026</h1>
+            <p class="header-subtitle">Danh sách 48 đội tuyển & 10 ngôi sao tiêu biểu</p>
+        </div>
+    </header>
+
+    <div class="app-container">
+        <!-- Top Players Section -->
+        <section class="section players-section">
+            <h2 class="section-title">10 NGÔI SAO TIÊU BIỂU</h2>
+            <div class="carousel-wrapper">
+                <button class="carousel-btn prev-btn" id="carousel-prev" aria-label="Previous player">&#10094;</button>
+                <div class="players-carousel" id="players-carousel">
+                    <!-- Players will be injected here via JS -->
+                </div>
+                <button class="carousel-btn next-btn" id="carousel-next" aria-label="Next player">&#10095;</button>
+            </div>
+        </section>
+
+        <!-- Teams Section -->
+        <section class="section teams-section">
+            <h2 class="section-title">Danh sách 48 đội tuyển</h2>
+            <div class="teams-grid" id="teams-grid">
+                <!-- Teams will be injected here via JS -->
+            </div>
+        </section>
+        
+        <footer>
+            <div class="footer-logo">
+                <img src="2026_FIFA_World_Cup_emblem.svg.png" alt="FIFA 2026">
+            </div>
+            <p>Chuyên trang tương tác của Báo Nhân Dân, dữ liệu từ FIFA.com.</p>
+        </footer>
+    </div>
+
+    <!-- Player Modal Detail -->
+    <div class="modal-overlay" id="player-modal">
+        <div class="modal-content">
+            <button class="modal-close" id="modal-close">&times;</button>
+            <div class="modal-body" id="modal-body">
+                <!-- Detailed player info will be injected here -->
+            </div>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
